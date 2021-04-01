@@ -21,6 +21,7 @@ body {
     display: inline;
     color: hsl(0, 0%, 59%);
     font-size: 18px;
+    font-weight: 400;
 }
 
 .container h3 {
@@ -28,6 +29,7 @@ body {
     color: hsl(0, 0%, 59%);
     text-align: center;
     margin-top: 10px;
+    font-weight: 400;
 }
 
 .container {
@@ -91,6 +93,7 @@ body {
 #black {
     color: #000;
     font-size: 18px;
+    font-weight: 700;
 }
 
 .attribution {
